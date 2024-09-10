@@ -1,0 +1,13 @@
+Project Structure:-
+Project setup
+First server
+MVC Pattern
+Models Route Controller
+Hashing
+Auth & Token
+User Api
+Jobs Api
+Stats & Filter
+More Security
+API docs
+Delpoyment
